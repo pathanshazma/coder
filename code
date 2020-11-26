@@ -1,0 +1,14 @@
+#In python
+############
+n=int(input())
+for i in range(0,n):
+  a=input()
+  count=a.count('a')
+  if (count>(len(a)//2)):
+    print(len(a))
+  else:
+    print(count+(count-1))
+#############
+
+
+#Thankyou :)
