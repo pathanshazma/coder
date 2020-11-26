@@ -1,4 +1,3 @@
-# coder
 Tina Loves A
 
 Tina has a string S. She really likes the letter a. She calls a string good if strictly more than half of the characters in that string are a's. For example "aaacb", "acaa" are
